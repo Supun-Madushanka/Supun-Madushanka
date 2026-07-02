@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm working as a Software Engineer and contributing to frontend and baackend for building web applications
+- 🔭 I'm working as a Software Engineer and contributing to frontend and backend for building web applications
 - 🌱 Always exploring new technologies and improving my craft
 - 💼 Experienced in building end-to-end solutions from database design to polished UIs
 - 🤝 Open to collaborating on interesting and impactful projects
